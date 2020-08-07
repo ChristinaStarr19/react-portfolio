@@ -5,5 +5,40 @@
         "image":"/images/Dinmo-screenshot.png",
         "deployedlink":"https://chayvw.github.io/gt-gp1-dinmo/",
         "githublink":"https://github.com/Chayvw/gt-gp1-dinmo"
+    },
+    {
+        "id":2,
+        "title":"Maestro",
+        "image":"/images/maestro-screenshot.png",
+        "deployedlink":"https://secure-shelf-55938.herokuapp.com/",
+        "githublink":"https://github.com/ChristinaStarr19/gt-project-2"
+    },
+    {
+        "id":3,
+        "title":"Password Generator",
+        "image":"/images/screenshot-deployed-application.png",
+        "deployedlink":"https://christinastarr19.github.io/gt-javascript-password-generator-homework-03/",
+        "githublink":"https://github.com/ChristinaStarr19/gt-javascript-password-generator-homework-03"
+    },
+    {
+        "id":4,
+        "title":"Daily Planner",
+        "image":"/images/scheduler-screenshot.png",
+        "deployedlink":"https://christinastarr19.github.io/gt-scheduler-third-party-apis-homework-05/",
+        "githublink":"https://github.com/ChristinaStarr19/gt-scheduler-third-party-apis-homework-05"
+    },
+    {
+        "id":5,
+        "title":"Employee Management System",
+        "image":"/images/employee-screenshot.png",
+        "deployedlink":"https://drive.google.com/file/d/1dPmK0CJKowKw7N4li3VjNb7RUycFjZD1/view",
+        "githublink":"https://github.com/ChristinaStarr19/gt-mysql-employee-tracker-homework-12"
+    },
+    {
+        "id":6,
+        "title":"README Generator",
+        "image":"/images/screenshot-readme.png",
+        "deployedlink":"https://drive.google.com/file/d/14kIMU3kLyT1ZBVUJeiHF2AwPLwee0Lcy/view",
+        "githublink":"https://github.com/ChristinaStarr19/gt-readme-generator-homework-09"
     }
 ]

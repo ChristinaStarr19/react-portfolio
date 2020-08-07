@@ -5,6 +5,7 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Aboutme from "./components/Aboutme";
 import Contact from "./components/Contact";
 import Portfolio from "./components/Portfolio";
+import Resume from "./components/Resume";
 
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
           <Route exact path="/" component={Aboutme} />
           <Route exact path="/contact" component={Contact} />
           <Route exact path="/portfolio" component={Portfolio} />
+          <Route exact path="/resume" component={Resume} />
         </Switch>
 
       </div>

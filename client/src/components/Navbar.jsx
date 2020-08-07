@@ -35,7 +35,7 @@ const Navbar = () => {
   
      {/* <!-- Named and linked Resume Page --> */}
      <li className="nav-item active heading">
-      <Link className="nav-link" to="resume.html">Resume<span className="sr-only">(current)</span></Link>
+      <Link className="nav-link" to="/resume">Resume<span className="sr-only">(current)</span></Link>
      </li>
  </ul>
 </div>
