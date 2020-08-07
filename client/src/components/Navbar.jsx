@@ -25,7 +25,7 @@ const Navbar = () => {
     
 {/* <!-- Named and linked Portfolio Page --> */}
     <li className="nav-item active heading">
-    <Link className="nav-link" to="portfolio.html">Portfolio<span className="sr-only">(current)</span></Link>
+    <Link className="nav-link" to="/portfolio">Portfolio<span className="sr-only">(current)</span></Link>
     </li>
 
 {/* <!-- Named and linked Contact Page --> */}
