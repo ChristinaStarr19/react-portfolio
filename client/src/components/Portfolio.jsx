@@ -23,7 +23,7 @@ import Project from "./Project";
               <hr />
             <section className="row">
               {this.state.projectdata.map(project => (
-                <Project title={project.title} image={project.image} key={project.id} githublink={project.githublink} deployedlink={project.githublink} />
+                <Project title={project.title} image={project.image} key={project.id} githublink={project.githublink} deployedlink={project.deployedlink} />
               ))}
             
             </section>
