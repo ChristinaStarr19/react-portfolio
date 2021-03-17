@@ -23,7 +23,7 @@ const Resume = () => {
               style={styles.figure}
             >
               <embed
-                src="/pdf/Christina_Starr_Resume.pdf"
+                src="/pdf/Christina-Starr-Technical-Support (1).pdf"
                 type="application/pdf"
                 width="100%"
                 height="600px"
